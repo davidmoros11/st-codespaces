@@ -1,0 +1,14 @@
+st.slider: Poner un valor numérico en un slider
+
+
+subir los datos del big mac index
+printear los datos del big mac index (pd.read csv, st.write())
+printear con un filtro de país, st.select_box
+-crear un select box con 2 opciones (Argentina, Brasil)
+-printear solo datos de Argentina
+-crear un st.write con un query que enseñe solo el país seleccionado
+-crear una lista con todos los países
+-Cambiar el select box original por uno con la lsita de todos los países
+Dibujar el indice a traves del tiempo (st.line_chart) para el país seleccionado
+Hacer un multiselect y printear los índices de varios países
+Separar en distintas tabs
